@@ -1,0 +1,1 @@
+//This is the JavaScript extension to the main file.
